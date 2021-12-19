@@ -1,4 +1,4 @@
-// [나의 코드] -> 지워진 로또 번호의 최고등수와 최저등수 구하기 커밋하기
+// [나의 코드] -> 지워진 로또 번호의 최고등수와 최저등수 구하기 커밋하기_변경하기
 class Solution {
     public int[] solution(int[] lottos, int[] win_nums) {
     int[] answer = {};
